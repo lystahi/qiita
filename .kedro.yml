@@ -1,0 +1,6 @@
+context_path: get_started_pyspark.run.ProjectContext
+project_name: "Get Started PySpark"
+project_version: "0.16.6"
+package_name: "get_started_pyspark"
+hooks:
+  - get_started_pyspark.hooks.project_hooks
